@@ -2,7 +2,7 @@
 
 ## Intro
 
-+ General technical setup, usernames, logins, etc.
++ General technical setup, github, etc.
 + Course Introduction
 + Pixel theory, color theory
 
