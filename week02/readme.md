@@ -3,10 +3,13 @@
 ## Concepts
 
 + Variables
+	+ int
+	+ float
+	+ string
 
 ## Processing Lab
 
 + Functions used ([use the reference to review](https://processing.org/reference/)):
-	+ 
+	+ x
 
-## Homework:
+## Homework
