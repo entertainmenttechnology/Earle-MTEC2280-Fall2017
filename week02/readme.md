@@ -5,7 +5,8 @@
 + Variables
 	+ int
 	+ float
-	+ string
++ KeyPressed
++ Conditional Logic
 
 ## Processing Lab
 
@@ -13,7 +14,8 @@
 	+ width, height
 	+ [map](https://processing.org/reference/map_.html)
 	+ [random](https://processing.org/reference/random_.html)
-	+ 
+	+ if -very important!!-
+	+ keyPressed
 
 ## Homework
 + Complete the drawing app (check out the drawing app in the examples!)
