@@ -1,4 +1,4 @@
-# Week 02 EDITED
+# Week 02
 
 ## Concepts
 
