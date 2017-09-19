@@ -22,7 +22,7 @@ This course is an introduction to interactive technology with a focus on how we 
 + [Raihan Chandra](https://github.com/raihanchandra/physical-computing-f17)
 + [Alisa Pavlova](https://github.com/alisapavlova/ins-and-outs)
 + [Emmanuel Burke](https://github.com/BurYE/Mtec2280)
-+ [Sagesse Jovens](https://github.com/jsagesse27/Ins-outs-MTEC2280)
++ [Sagesse Jovens](https://github.com/jsagesse27/Ins-out-MTEC2280)
 + [Jeremy Cruzado](https://github.com/SetPlay/Physical-Computing-F2017)
 + [Marc Gonzalez](https://github.com/MGonzalez310/MTEC-2280-Ins-and-Outs)
 + [Ryan Lorenzo](https://github.com/rlorenzo94/mtech2280)
