@@ -15,7 +15,7 @@ This course is an introduction to interactive technology with a focus on how we 
 
 ## Student Repos
 
-+ [Ralph Kraiem](https://github.com/rkraiem100/rkraiem100)
++ [Ralph Kraiem](https://github.com/Rkraiem100/Github-Repository)
 + [Baillin He](https://github.com/bhe2142/BaiLin-MTEC-2280)
 + [Jose Calderin](https://github.com/jcalderin1097/physical-computing-f17)
 + [David Roman](https://github.com/droman2597/physical-computing-f17)
