@@ -2,6 +2,7 @@
 
 ## Concepts
 + Basic electricity
+	+ Completing a circuit
 + Resistors
 + [Library](https://www.arduino.cc/en/Reference/Libraries)
 	+ [Excellent guide by Ladyada](http://www.ladyada.net/learn/arduino/lesson4.html)
