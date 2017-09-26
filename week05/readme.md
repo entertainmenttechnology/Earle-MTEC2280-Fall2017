@@ -21,4 +21,4 @@
 	+ HIGH and LOW in this context
 
 ## Homework
-+ 
++ Read [Forrest Mims - Getting Started with Electronics](../mims-getting-started.pdf) Chapter 1: Electricity
