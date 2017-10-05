@@ -6,12 +6,17 @@
 
 + [CHiKA](http://www.imagima.com/SHiKAKU07)
 
++ [Tristan Perich](https://vimeo.com/45225412)
+
 ## Concepts
 
 + [Arrays](https://www.arduino.cc/en/Reference/Array)
 	+ Why are they useful?
 		+ Imagine making software to keep track of 20,000 student grades. Now imagine sorting those grades. Now imagine determining who passes and fails. Send emails to students who are at risk of failing. Make sure students who have upkept their GPA continue to receive scholarships. Would you want to do this on an individual basis, or write a loop that could automate this for you?
 	+ In Arduino land, this is useful for automating lots of inputs or outputs.
+
++ [Basic Sound](http://www.instructables.com/id/How-to-use-a-Buzzer-Arduino-Tutorial/)
+	+ Works just like an LED
 
 + [Library](https://www.arduino.cc/en/Reference/Libraries)
 	+ [Excellent guide by Ladyada](http://www.ladyada.net/learn/arduino/lesson4.html)
@@ -28,6 +33,8 @@
 	+ "There and back" style sequence
 	+ Evens, then odds
 	+ Circle
+
++ Create some sound FX
 
 ![Schematic](https://www.arduino.cc/en/uploads/Tutorial/forLoop2_schem.png)
 
