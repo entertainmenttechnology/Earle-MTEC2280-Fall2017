@@ -2,6 +2,10 @@
 
 int speakerPin = 7;
 
+int A = 2270;
+int F = 2865;
+int C = 1912;
+
 void setup() {
   pinMode(speakerPin, OUTPUT);
 }
@@ -13,45 +17,45 @@ void loop() {
     digitalWrite(speakerPin, HIGH);
     // the delay time defines the frequency
     // of the pitch
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
     digitalWrite(speakerPin, LOW);
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
   }
   // a little pause between notes
   delay(100);
   for(int i = 0; i < 100; i++) {
     digitalWrite(speakerPin, HIGH);
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
     digitalWrite(speakerPin, LOW);
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
   }
   delay(100);
   for(int i = 0; i < 100; i++) {
     digitalWrite(speakerPin, HIGH);
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
     digitalWrite(speakerPin, LOW);
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
   }
   delay(100);
   for(int i = 0; i < 50; i++) {
     digitalWrite(speakerPin, HIGH);
-    delayMicroseconds(2865);
+    delayMicroseconds(F);
     digitalWrite(speakerPin, LOW);
-    delayMicroseconds(2865);
+    delayMicroseconds(F);
   }
   delay(100);
   for(int i = 0; i < 50; i++) {
     digitalWrite(speakerPin, HIGH);
-    delayMicroseconds(1912);
+    delayMicroseconds(C);
     digitalWrite(speakerPin, LOW);
-    delayMicroseconds(1912);
+    delayMicroseconds(C);
   }
   delay(100);
   for(int i = 0; i < 200; i++) {
     digitalWrite(speakerPin, HIGH);
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
     digitalWrite(speakerPin, LOW);
-    delayMicroseconds(2270);
+    delayMicroseconds(A);
   }
   delay(500);
 }
