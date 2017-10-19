@@ -11,6 +11,9 @@
 		+ That would make our Arduino programs quite large, and there isn't much space on them. Plus, it'd be less efficient.
 		+ Only the most important functions are included in the base Arduino library, like digitalWrite(), delay(), if(), setup(), loop(), and so on.
 	+ It just looks like `#include <libraryName.h>` at the very top of your code
++ Arduino -> Processing via serial
+	+ Using physical objects to control digital objects
+	+ If interested, a second method to the code in this repo: http://graysonearle.com/edu/physcom/simple-serial-exchange-from-arduino-to-processing/
 
 ## Exercises
 
