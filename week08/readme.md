@@ -23,7 +23,4 @@
 ## Makeup Quiz
 
 1. A button that controls an LED such that every time you press and release the button, the LED state changes.
-2. 
-
-An "alarm" type sound with a pause between sounds. A potentiometer controls the duration of the pause between sounds.
-An LED that only blinks while a button is being pressed
+2. A speaker that alternates between sustained tones. One tone is high pitch and lasts roughly half a second, the other tone is low pitch and lasts roughly half a second.
