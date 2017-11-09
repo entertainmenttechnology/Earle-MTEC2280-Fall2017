@@ -43,5 +43,5 @@ void loop() {
   x.write(valX);
   y.write(valY);
 
-  delay(10);
+  delay(2);
 }
