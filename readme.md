@@ -9,8 +9,10 @@ This course is an introduction to interactive technology with a focus on how we 
 ## Robot Olympics Leaderboard
 
 + Round Zero (Practice Round) Winners:
-	+ 
-	+
+	+ Quality of Image: Alisa/Baillin
+	+ Quality of Construction: Jeremy/David
+	+ Creativity: Ralph/Ralph
+	+ Flair: Raihan/Jose
 
 ## Git Cheat Sheet
 
