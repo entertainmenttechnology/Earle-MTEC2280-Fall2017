@@ -18,8 +18,6 @@ void setup() {
   pinMode(8, INPUT_PULLUP);
 }
 
-int incomingByte = 0;
-
 void loop() {
 
   //bluetooth.println(digitalRead(8));

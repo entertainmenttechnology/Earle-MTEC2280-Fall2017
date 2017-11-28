@@ -17,10 +17,16 @@ void setup()
 }
 
 void draw() {
+  // check for info on serial
   if (myPort.available() > 0) {
     //println(myPort.readStringUntil('\n'));
     myVal = myPort.read();
   }
-  
+
+  if (myVal == 0)
+    background(255, 0, 0);
+  else
+    background(0);
+    
   println(myVal);
 }
